@@ -35,7 +35,7 @@ Client-server chat applications are software systems that enable real-time commu
 •	For security and privacy, chat applications often implement user authentication mechanisms.
 •	Users are required to provide credentials (e.g., username and password) to access the chat system.
 •	More advanced methods like tokens or secure protocols can enhance authentication.
-5. Message Routing:
+## 5. Message Routing:
 •	The server is responsible for routing messages from one client to another.
 •	It ensures that messages are delivered to the intended recipients.
 •	Message routing may involve maintaining a list of connected users and their associated sockets.
